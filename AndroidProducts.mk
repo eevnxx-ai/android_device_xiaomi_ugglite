@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/zenx_ugglite.mk
+    $(LOCAL_DIR)/xtended_ugglite.mk
 
-COMMON_LUNCH_CHOICES := \
-     xtended_ugglite-userdebug
+COMMON_LUNCH_CHOICES := 
+     xtended_ugglite-userdebug \
      xtended_ugglite-user \
      xtended_ugglite-eng
