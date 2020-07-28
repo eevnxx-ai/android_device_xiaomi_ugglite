@@ -20,4 +20,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
      xtended_ugglite-userdebug
      xtended_ugglite-user \
-     xtended_mido-eng
+     xtended_ugglite-eng
